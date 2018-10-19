@@ -28,10 +28,6 @@ public class ObjPool : MonoBehaviour {
 
     }
 
-    // Update is called once per frame
-    void Update () {
-		
-	}
     public GameObject GetPooledObject()
     {
         for (int i = 0; i < pooledObjects.Count; i++)

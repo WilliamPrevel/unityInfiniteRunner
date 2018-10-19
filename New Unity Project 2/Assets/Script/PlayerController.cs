@@ -19,7 +19,7 @@ public class PlayerController : MonoBehaviour {
     // Use this for initialization
     void Start () {
         //gets component
-        //myRigidBody = GetComponent<Rigidbody2D>();
+        myRigidBody = GetComponent<Rigidbody2D>();
 
         myCollider = GetComponent<Collider2D>();
     }

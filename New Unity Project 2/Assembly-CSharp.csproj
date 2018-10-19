@@ -64,8 +64,6 @@
     <Compile Include="Assets\obj.cs" />
     <Compile Include="Assets\ObjectPooler.cs" />
     <Compile Include="Assets\Script\CameraController.cs" />
-    <Compile Include="Assets\Script\CubeDestroyer.cs" />
-    <Compile Include="Assets\Script\CupeGenerator.cs" />
     <Compile Include="Assets\Script\ObjPool.cs" />
     <Compile Include="Assets\Script\PlatformDestroyer.cs" />
     <Compile Include="Assets\Script\PlatformGenerator.cs" />
