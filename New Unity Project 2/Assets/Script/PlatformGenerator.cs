@@ -14,7 +14,7 @@ public class PlatformGenerator : MonoBehaviour {
     // Use this for initialization
     void Start () {
         platformWidth = platforms.GetComponent<BoxCollider2D>().size.x;
-
+        platforms = null;
 	}
 	
 	// Update is called once per frame
