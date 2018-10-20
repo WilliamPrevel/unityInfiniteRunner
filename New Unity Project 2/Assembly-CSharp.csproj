@@ -68,6 +68,7 @@
     <Compile Include="Assets\Script\PlatformDestroyer.cs" />
     <Compile Include="Assets\Script\PlatformGenerator.cs" />
     <Compile Include="Assets\Script\PlayerController.cs" />
+    <Compile Include="Assets\Script\ScrollingBackground.cs" />
     <None Include="Assets\BayatGames\Free Platform Game Assets\Readme.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/Unity/Projects/New Unity Project 2/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
