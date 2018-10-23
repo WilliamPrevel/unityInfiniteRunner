@@ -23,7 +23,7 @@ public class CameraController : MonoBehaviour {
 	void Update () {
         //Camera Location
         distToMove = player.transform.position.x - lastPlayerPos.x;
-        transform.position = new Vector3(transform.position.x + distToMove, transform.position.y, transform.position.z + 1);
+        transform.position = new Vector3(transform.position.x + distToMove, transform.position.y, transform.position.z);
         lastPlayerPos = player.transform.position;
 	}
 }

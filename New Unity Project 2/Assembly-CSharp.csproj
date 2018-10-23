@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\obj.cs" />
     <Compile Include="Assets\ObjectPooler.cs" />
+    <Compile Include="Assets\Script\BackgroundScroll.cs" />
     <Compile Include="Assets\Script\CameraController.cs" />
     <Compile Include="Assets\Script\ObjPool.cs" />
     <Compile Include="Assets\Script\PlatformDestroyer.cs" />
